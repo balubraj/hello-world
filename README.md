@@ -1,2 +1,2 @@
-# hello-world
-Hello world
+# First Git
+This is the first ever Git creation from me
